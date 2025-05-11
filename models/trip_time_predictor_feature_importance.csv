@@ -1,0 +1,4 @@
+Feature,Importance
+base_passenger_fare,0.7987422162417895
+trip_miles,0.16077603694520534
+pickup_hour,0.040481746813005176
